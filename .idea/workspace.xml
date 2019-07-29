@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="492b8435-74aa-4a36-b088-5bacf7c53f08" name="Default Changelist" comment="" />
+    <list default="true" id="492b8435-74aa-4a36-b088-5bacf7c53f08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/Alim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/Alim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HizmetWeb/com/company/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Alim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Alim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/alimlist.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/alimlist.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +24,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OYYGLgGvh7SgVm7n3i0NHIx579" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jsoup-1.12.1.jar!/" />
@@ -88,10 +102,26 @@
       <updated>1564155900815</updated>
       <workItem from="1564155903410" duration="9031000" />
       <workItem from="1564209149507" duration="33816000" />
+      <workItem from="1564245325161" duration="731000" />
+      <workItem from="1564247307304" duration="3446000" />
+      <workItem from="1564382795567" duration="7854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,25 +1,33 @@
 package com.company;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.net.URL;
+import java.util.ArrayList;
 
 
 public class test {
 
 
-
     public static void main(String Args[]) throws IOException {
 
-        String str ="http://www.ehlisunnetbuyukleri.com/adsdsasdas";
+        File file = new File("C:\\Users\\M.Furkan Yüceal\\IdeaProjects\\HizmetWeb\\src\\com\\company\\alimlist.json");
+        FileWriter writer = new FileWriter(file);
 
-        str=str.substring(7,34);
+        writer.write("</br>");
 
-        System.out.println(str);
+        writer.close();
+
+
+        var alimarray = new ArrayList<Alim>();
+
+        var alim=new Alim();
+
+        alim.setKaynak("www.google.com");
+        alim.setMana("bundan sonra böyle </br>");
+        alim.setKelime("furkan");
+
+
     }
 
 
